@@ -43,7 +43,7 @@ RAM is small and fast, the disk is large and slow, and a single **page fault** c
 
 This simulator lets you type (or generate) a **page reference string**, pick the number of **physical frames**, and watch five replacement algorithms handle it step by step. It measures each one with **hit ratio**, **fault ratio** and **Effective Memory Access Time (EMAT)**, and it also demonstrates the other topics of the *Virtual Memory* unit: Belady's Anomaly, thrashing, frame allocation, page size trade-offs and demand segmentation.
 
-> Built as a Capstone Project for **Operating System (ENCS351)**, Unit 3: Virtual Memory.
+> Built as a Capstone Project for **Operating System (ENCS351)**
 
 ---
 
