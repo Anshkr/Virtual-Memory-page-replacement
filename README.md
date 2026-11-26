@@ -296,8 +296,4 @@ Course: Operating System (ENCS351)
 
 ---
 
-<div align="center">
 
-⭐ If you found this project useful, give it a star on GitHub.
-
-</div>
