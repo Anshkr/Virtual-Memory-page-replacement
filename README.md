@@ -76,7 +76,7 @@ This simulator lets you type (or generate) a **page reference string**, pick the
 |:---:|:---:|
 | ![Belady](screenshots/belady.png) | ![Thrashing](screenshots/thrashing.png) |
 
-| Allocation of Frames | Invalid Input Handling |
+| Allocation of Frames | Page Size Trade-offs |
 |:---:|:---:|
 | ![Allocation](screenshots/allocation.png) | ![Page Size Trade-offs](screenshots/tradeoff.png) |
 
@@ -136,6 +136,7 @@ project/
 │   ├── thrashing.py          # Thrashing detection, working-set model
 │   ├── page_size.py          # Page size trade-offs
 │   └── segmentation.py       # Demand segmentation
+├── screenshots/
 ├── utils/
 │   └── statistics.py         # Hit ratio, fault ratio, EMAT
 └── tests/
