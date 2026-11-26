@@ -21,7 +21,7 @@
 
 - [About the Project](#-about-the-project)
 - [Features](#-features)
-- [Screenshots](#-screenshots)
+- [Screenshots](#%EF%B8%8F-screenshots)
 - [Operating System Concepts Covered](#-operating-system-concepts-covered)
 - [Algorithms](#-algorithms)
 - [Project Structure](#-project-structure)
