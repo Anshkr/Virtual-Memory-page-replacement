@@ -66,19 +66,19 @@ This simulator lets you type (or generate) a **page reference string**, pick the
 
 ## 🖼️ Screenshots
 
-> Add your own screenshots to `docs/screenshots/` using the file names below.
+> Add your own screenshots to `screenshots/` using the file names below.
 
 | Benchmark & Comparison | Step-by-Step Visualizer |
 |:---:|:---:|
-| ![Benchmark](docs/screenshots/overview.png) | ![Step view](docs/screenshots/step.png) |
+| ![Benchmark](screenshots/overview.jpg) | ![Step view](screenshots/step.png) |
 
 | Belady's Anomaly | Thrashing & Working Set |
 |:---:|:---:|
-| ![Belady](docs/screenshots/belady.png) | ![Thrashing](docs/screenshots/thrashing.png) |
+| ![Belady](screenshots/belady.png) | ![Thrashing](screenshots/thrashing.png) |
 
 | Allocation of Frames | Invalid Input Handling |
 |:---:|:---:|
-| ![Allocation](docs/screenshots/allocation.png) | ![Error](docs/screenshots/error.png) |
+| ![Allocation](screenshots/allocation.png) | ![Page Size Trade-offs](screenshots/tradeoff.png) |
 
 ---
 
