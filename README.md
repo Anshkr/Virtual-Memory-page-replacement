@@ -11,7 +11,7 @@
 ![Tests](https://img.shields.io/badge/tests-26%20passing-brightgreen)
 ![Course](https://img.shields.io/badge/Course-Operating%20System%20(ENCS351)-6366F1)
 
-### 🚀 [Live Demo](https://YOUR-APP-NAME.streamlit.app) &nbsp;|&nbsp; 📂 [Repository](https://github.com/YOUR-USERNAME/YOUR-REPO)
+### 🚀 [Live Demo](https://anshkr-virtual-memory-pagereplacement-app-luua6h.streamlit.app/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/Anshkr/Virtual-Memory-page-replacement)
 
 </div>
 
